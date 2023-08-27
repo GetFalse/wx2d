@@ -4,42 +4,41 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '建站初衷',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        我是平平无奇的后端开发，想在互联网上留下属于自己的那一坨...当然是看的见的，
+        作为后端看不见的已经有很多了。工作的枯燥让我想做点有意思的东西，所以这段时间
+        一直有进行微信小程序的开发，在找相关文档或者资料时，总是需要大量时间精力，
+        既然已经踩过坑了，那就沉淀整理出来，帮助其他开发者少走弯路。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '本站内容',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        基于我现在所经历的开发流程，目前主要分为四大块，微信小程序，微信公众号，微信开放平台以及微信支付。
+        后续可能还会调整补充。最后可能还包括我深夜的一些思考或者丧，可能没有营养，但会一定不会长胖。
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: '终极目标',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        3分钟解决你微信开发上遇到的所有问题，快且全，真是一个让人兴奋的目标呢，让人开心的是现在离这个目标还差这个目标的距离，
+        但我会坚持（小tip：域名我直接续了10年）同时希望大家也能贡献自己的经验。如果最后能赚到钱，那我会笑醒的。当然不赚钱我也会维护下去，
+        前面也说了，我想在互联网上留下属于自己那的一坨...
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
