@@ -74,9 +74,14 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '微信教程',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '记录点滴', position: 'left'},
+          {
+            to: '/about-me',
+            label: '我的自述',
+            position: 'right',
+          },
           {
             href: 'https://github.com/GetFalse',
             label: 'GitHub',
