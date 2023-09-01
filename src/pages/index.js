@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-             点击开始计时 - 300min ⏱️
+             查看教程
           </Link>
         </div>
       </div>

@@ -93,41 +93,41 @@ const config = {
         style: 'light',
         links: [
           {
-            title: 'Docs',
+            title: '文档',
             items: [
               {
-                label: 'Tutorial',
+                label: '微信教程',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '社区',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: '微信',
+                href: 'https://oss.iaigc.run/wx2d/wx.jpg',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'QQ',
+                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ii3FkCvFkmbSEfv2XNZlyvnkveb0P_zD&authKey=wkjz5DUUPgv%2BrPgfgVF7AmDTGIpuF3aUSapkuKU%2FDZ7sBW%2FDEpe13JUUaGZOInsT&noverify=0&group_code=916895299',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: '上报问题',
+                href: 'https://github.com/GetFalse/wx2d/issues',
               },
             ],
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
-                label: 'Blog',
+                label: '记录点滴',
                 to: '/blog',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/GetFalse/wx2d',
               },
             ],
           },
