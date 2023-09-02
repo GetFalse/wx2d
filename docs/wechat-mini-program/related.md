@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 99
 ---
 
 # 小程序关联公众号
