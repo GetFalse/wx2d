@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 注册服务号
+# 注册服务号并认证
 
 这里公众号分为两种，`订阅号`和`服务号`，他们两个有什么区别？[官方解释](https://kf.qq.com/faq/120911VrYVrA130805byM32u.html)
 
@@ -60,4 +60,17 @@ sidebar_position: 1
 ### 9. 注册成功
 
 ![注册成功](./img/register/register9.png)     
+
+### 10. 微信认证，这里需要缴纳300块，没错每年都要缴纳。
+
+![认证1](./img/register/register10.png)   
+
+![认证2](./img/register/register11.png)  
+
+![认证3](./img/register/register12.png)     
    
+![认证4](./img/register/register13.png)     
+
+### 11. 这里我就不演示全部了，因为我已经认证了一个服务号了，当支付完费用后，过几天就会有电话打来，这个时候你确认一下，就认证成功了。
+
+![认证success](./img/register/register14.png)   
