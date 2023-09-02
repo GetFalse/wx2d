@@ -81,12 +81,7 @@ const config = {
             to: '/about-me',
             label: '我的自述',
             position: 'right',
-          },
-          {
-            href: 'https://github.com/GetFalse',
-            label: 'GitHub',
-            position: 'right',
-          },
+          }
         ],
       },
       footer: {
