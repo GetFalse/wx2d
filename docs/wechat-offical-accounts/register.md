@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 5
 ---
 
 # 注册服务号并认证
@@ -49,7 +49,7 @@ sidebar_position: 1
    
 ![填写相应的信息。](./img/register/register6.png)     
 
-### 7. 这里好像改了，验证方式可以选择`法定代表人验证`，之前我是用的`微信认证`，需要交300块，血亏啊！！
+### 7. 这里好像改了，验证方式可以选择`法定代表人验证`
    
 ![填写相应的信息。](./img/register/register7.png)       
 
@@ -74,3 +74,7 @@ sidebar_position: 1
 ### 11. 这里我就不演示全部了，因为我已经认证了一个服务号了，当支付完费用后，过几天就会有电话打来，这个时候你确认一下，就认证成功了。
 
 ![认证success](./img/register/register14.png)   
+
+## 结束语
+
+服务号认证成功，可以去免费注册一个微信商户，然后接入微信支付收款。[申请微信支付](/docs/wechat-pay/applyment)

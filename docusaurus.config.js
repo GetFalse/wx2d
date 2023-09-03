@@ -100,11 +100,15 @@ const config = {
             title: '社区',
             items: [
               {
-                label: '微信',
+                label: '微信公众号',
+                href: 'https://oss.iaigc.run/wx2d/dyh.jpg',
+              },
+              {
+                label: '微信交流群',
                 href: 'https://oss.iaigc.run/wx2d/wx.jpg',
               },
               {
-                label: 'QQ',
+                label: 'QQ群',
                 href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ii3FkCvFkmbSEfv2XNZlyvnkveb0P_zD&authKey=wkjz5DUUPgv%2BrPgfgVF7AmDTGIpuF3aUSapkuKU%2FDZ7sBW%2FDEpe13JUUaGZOInsT&noverify=0&group_code=916895299',
               },
               {
