@@ -55,5 +55,5 @@ wx.login({
 
     APP_ID和APP_SECRET取的是小程序里面的值，具体说明点击查看：[获取AppId和AppSecret](/docs/wechat-mini-program/appid)
 
-2. uniapp的代码，只贴出来核心代码，完整代码查看我开源的uniapp模板小程序项目。[wx2d-uniapp-demo]([https](https://github.com/GetFalse/wx2d-uniapp-demo))
+2. uniapp的代码，只贴出来核心代码，完整代码查看我开源的uniapp模板小程序项目。[wx2d-uniapp-demo](https://github.com/GetFalse/wx2d-uniapp-demo)
  
