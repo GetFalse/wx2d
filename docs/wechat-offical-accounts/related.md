@@ -2,7 +2,7 @@
 sidebar_position: 98
 title: 公众号关联小程序
 description: 微信公众号关联小程序
-keywords: [微信公众号,服务号,订阅号,教程,微信,小程序]
+keywords: [wx2d,微信公众号,服务号,订阅号,教程,微信,小程序]
 ---
 
 

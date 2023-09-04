@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: 申请微信支付
 description: 喂饭级申请微信支付教程
-keywords: [微信支付,申请微信商户,微信小程序支付,微信公众号支付,微信H5支付,教程]
+keywords: [wx2d,微信支付,申请微信商户,微信小程序支付,微信公众号支付,微信H5支付,教程]
 ---
 
 

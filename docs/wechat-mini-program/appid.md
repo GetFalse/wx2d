@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: 获取AppId和AppSecret
 description: 微信小程序获取AppId和AppSecret
-keywords: [教程,微信,小程序,AppId,AppSecret]
+keywords: [wx2d,教程,微信,小程序,AppId,AppSecret]
 ---
 
 ## 登录小程序

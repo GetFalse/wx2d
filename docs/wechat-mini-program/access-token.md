@@ -2,7 +2,7 @@
 sidebar_position: 2
 title: 获取AccessToken
 description: 微信小程序获取AccessToken
-keywords: [教程,微信,小程序,AccessToken]
+keywords: [wx2d,教程,微信,小程序,AccessToken]
 ---
 
 # 获取AccessToken

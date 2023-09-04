@@ -2,7 +2,7 @@
 sidebar_position: 3
 title: 小程序登录获取openid
 description: 微信小程序获取openid
-keywords: [微信,微信小程序,教程,openid,微信小程序获取openid,uniapp]
+keywords: [wx2d,微信,微信小程序,教程,openid,微信小程序获取openid,uniapp]
 ---
 
 

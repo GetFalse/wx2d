@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: 环境变量设置
 description: Laf环境变量设置
-keywords: [教程,微信,前端,LAF,文档,laf,Nodejs,javascript,ts,typescript,js]
+keywords: [wx2d,教程,微信,前端,LAF,文档,laf,Nodejs,javascript,ts,typescript,js]
 ---
 
 # 环境变量设置

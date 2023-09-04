@@ -2,7 +2,7 @@
 sidebar_position: 5
 title: 注册服务号并认证
 description: 微信公众号注册服务号并认证教程
-keywords: [微信公众号,服务号,订阅号,教程,微信]
+keywords: [wx2d,微信公众号,服务号,订阅号,教程,微信]
 ---
 
 

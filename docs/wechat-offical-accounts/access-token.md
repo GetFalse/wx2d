@@ -1,8 +1,9 @@
 ---
 sidebar_position: 3
+title: 获取AccessToken
+description: 微信公众号获取AccessToken
+keywords: [wx2d,微信公众号,服务号,订阅号,教程,微信,小程序,教程,access-token]
 ---
-
-# 获取AccessToken
 
 ## 官方文档
 
