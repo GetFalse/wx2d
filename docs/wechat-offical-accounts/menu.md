@@ -1,8 +1,9 @@
 ---
 sidebar_position: 99
+title: 自定义菜单
+description: 微信公众号设置自定义菜单
+keywords: [微信公众号,自定义菜单,教程]
 ---
-
-# 自定义菜单
 
 ## 微信官方文档地址
 

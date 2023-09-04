@@ -1,8 +1,10 @@
 ---
 sidebar_position: 5
+title: 注册服务号并认证
+description: 微信公众号注册服务号并认证教程
+keywords: [微信公众号,服务号,订阅号,教程,微信]
 ---
 
-# 注册服务号并认证
 
 这里公众号分为两种，`订阅号`和`服务号`，他们两个有什么区别？[官方解释](https://kf.qq.com/faq/120911VrYVrA130805byM32u.html)
 
