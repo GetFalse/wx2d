@@ -30,8 +30,9 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello`}
-      description="微信开发，微信支付，微信小程序支付，微信公众号支付，微信H5支付，微信公众号开发，微信开发者平台文档，微信开放平台，微信开发者工具，微信开发教程，微信开发帮助中心，企业微信">
+      title={`微信开发者教程`}
+      description='微信开发，轻松上手'
+     >
       <HomepageHeader />
       <main>
         <HomepageFeatures />
