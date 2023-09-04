@@ -75,3 +75,16 @@ async function getAccessToken(appid: string, secret: string) {
 2. `cloud.shared`
    
    使用的是Laf全局缓存，具体请看：[Laf全局缓存](https://doc.laf.run/guide/function/function-sdk.html#%E4%BA%91%E5%87%BD%E6%95%B0%E5%85%A8%E5%B1%80%E7%BC%93%E5%AD%98)
+
+
+## 常见错误
+
+### 问题就是不在白名单
+```json
+{
+  errcode: 40164,
+  errmsg: 'invalid ip 121.41.21.175 ipv6 ::ffff:121.41.21.175, not in whitelist rid: 64f5e5b6-60e6c880-44619401'
+}
+```
+解决方式：
+![公众号添加白名单](img/access-token/access.png)
