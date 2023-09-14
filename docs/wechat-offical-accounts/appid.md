@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: 获取AppId和AppSecret
+title: 微信公众号获取AppId和AppSecret
 description: 微信公众号获取AppId和AppSecret
 keywords: [wx2d,微信公众号,AppId,AppSecret]
 ---

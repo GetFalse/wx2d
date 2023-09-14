@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-title: 发送客服消息
+title: 微信公众号发送客服消息
 description: 微信公众号客服发送消息
 keywords: [wx2d,微信公众号,教程,客服,发送消息]
 ---

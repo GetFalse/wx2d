@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
-title: 公众号开通微信支付
-description: 公众号开通微信支付
+title: 微信公众号开通微信支付
+description: 微信公众号开通微信支付
 keywords: [wx2d,微信,微信小程序,教程,微信支付,原生支付，Native支付,uniapp]
 ---
 

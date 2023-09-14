@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: 注册服务号并认证
+title: 微信公众号注册服务号并认证教程
 description: 微信公众号注册服务号并认证教程
 keywords: [wx2d,微信公众号,服务号,订阅号,教程,微信]
 ---

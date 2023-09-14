@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
-title: 小程序音视频内容安全识别
-description: 小程序音视频内容安全识别
+title: 微信小程序音视频内容安全识别
+description: 微信小程序音视频内容安全识别
 keywords: [wx2d,微信,微信小程序,教程,音视频内容,安全识别,uniapp]
 ---
 

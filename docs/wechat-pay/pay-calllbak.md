@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-title: 接受微信支付回调
+title: 服务器接受微信支付回调
 description: 接受微信支付回调
 keywords: [wx2d,微信,微信小程序,教程,微信支付,原生支付,支付回调,Native支付,uniapp]
 ---

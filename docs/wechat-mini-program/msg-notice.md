@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
-title: 小程序接收消息推送
-description: 小程序开发者服务器接收消息推送
+title: 微信小程序接收消息推送
+description: 微信小程序接收消息推送
 keywords: [wx2d,微信,微信小程序,教程,消息推送,uniapp]
 ---
 

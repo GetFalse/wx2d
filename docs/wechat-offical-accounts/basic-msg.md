@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: 被动回复用户消息
+title: 微信公众号被动回复用户消息
 description: 微信公众号被动回复用户消息
 keywords: [wx2d,微信公众号,教程,客服,发送消息]
 ---
