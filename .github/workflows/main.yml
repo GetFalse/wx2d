@@ -30,7 +30,7 @@ jobs:
         run: npm run build
       # 安装 laf-cli
       - name: Install Laf-CLI
-        run: npm i laf-cli -g
+        run: npm i laf-cli@1.0.0-beta.11 -g
       # 登录 laf api
       - name: Login laf-cli
         working-directory: ${{ env.WEB_PATH }}
