@@ -29,7 +29,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-cn',
-    locales: ['en','zh-cn'],
+    locales: ['en', 'zh-cn'],
   },
 
   presets: [
@@ -61,6 +61,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      googleAdsense: {
+        dataAdClient: 'ca-pub-8808508554825836',
+      },
       // Replace with your project's social card
       image: 'img/wx2dlogo.png',
       navbar: {
@@ -76,7 +79,7 @@ const config = {
             position: 'left',
             label: '微信教程',
           },
-          {to: '/blog', label: '记录点滴', position: 'left'},
+          { to: '/blog', label: '记录点滴', position: 'left' },
           {
             to: '/about-me',
             label: '我的自述',
@@ -137,8 +140,9 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      metadata: [{name: 'keywords', content: 'wx2d,微信开发,微信支付,微信小程序支付,微信公众号支付,微信H5支付,微信公众号开发,微信开发者平台文档,微信开放平台,微信开发者工具,微信开发教程,微信开发帮助中心,企业微信,微信教程'}],
+      metadata: [{ name: 'keywords', content: 'wx2d,微信开发,微信支付,微信小程序支付,微信公众号支付,微信H5支付,微信公众号开发,微信开发者平台文档,微信开放平台,微信开发者工具,微信开发教程,微信开发帮助中心,企业微信,微信教程' }, { name: "google-adsense-account", content: "ca-pub-8808508554825836" }],
     }),
+  plugins: ['docusaurus-plugin-google-adsense'],
 };
 
 module.exports = config;
