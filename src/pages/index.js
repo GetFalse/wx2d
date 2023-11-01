@@ -33,6 +33,7 @@ export default function Home() {
       title={`微信开发者教程`}
       description='微信开发，轻松上手'
      >
+      <meta name="google-adsense-account" content="ca-pub-8808508554825836">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
