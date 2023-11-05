@@ -8,7 +8,7 @@ env:
   BUCKET_NAME: ${{ secrets.DOC_BUCKET_NAME }}
   LAF_APPID: ${{ secrets.LAF_APPID }}
   LAF_PAT: ${{ secrets.LAF_PAT }}
-  API_URL: 'https://api.laf.run'
+  API_URL: 'https://api.laf.dev'
   WEB_PATH: .
   DIST_PATH: 'build'
 jobs:
@@ -30,7 +30,7 @@ jobs:
         run: npm run build
       # 安装 laf-cli
       - name: Install Laf-CLI
-        run: npm i laf-cli@1.0.0-beta.11 -g
+        run: npm i laf-cli -g
       # 登录 laf api
       - name: Login laf-cli
         working-directory: ${{ env.WEB_PATH }}
